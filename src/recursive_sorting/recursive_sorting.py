@@ -1,6 +1,3 @@
-import random
-from time import clock as now
-
 # TO-DO: complete the helpe function below to merge 2 sorted arrays
 
 
@@ -88,8 +85,8 @@ print(arr)
 # hint: check out https://github.com/python/cpython/blob/master/Objects/listsort.txt
 
 
-def timsort(arr):
-    from random import random
-    arr = [random() for i in range(n)]
-    print(arr)
-    return arr
+# def timsort(arr):
+#     from random import random
+#     arr = [random() for i in range(n)]
+#     print(arr)
+#     return arr
